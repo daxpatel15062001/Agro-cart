@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848239543546",
+    "firebase_url": "https://agro-cart-92bc5.firebaseio.com",
+    "project_id": "agro-cart-92bc5",
+    "storage_bucket": "agro-cart-92bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848239543546:android:b2ae7738ab1ace27edb543",
+        "android_client_info": {
+          "package_name": "com.example.agrocart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848239543546-p5mac4ljjmt2vmurlft41hq35noif1d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyhS7IZEkMmlfBzdfcyx2yZH9tWJRINk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848239543546-p5mac4ljjmt2vmurlft41hq35noif1d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
